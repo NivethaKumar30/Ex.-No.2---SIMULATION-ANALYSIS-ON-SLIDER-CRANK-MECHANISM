@@ -1,4 +1,4 @@
-# Ex. No.2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+![Screenshot 2023-06-14 140441](https://github.com/NivethaKumar30/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119559844/076ab809-1b2f-47cb-8534-93bdd4ec4759)# Ex. No.2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 
 
@@ -35,16 +35,12 @@
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
-
 ## Output
+![Screenshot 2023-06-14 140103](https://github.com/NivethaKumar30/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119559844/e15d78c7-6071-4c4f-90aa-4a4cab840d9f)
 
+![Screenshot 2023-06-14 140441](https://github.com/NivethaKumar30/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119559844/d7ad8b66-4c18-48e4-9825-0e40feb2fd2c)
+
+![Screenshot 2023-06-14 140126](https://github.com/NivethaKumar30/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119559844/efa09a42-64be-42f2-b753-5633b1ea591c)
 
 ### Name:NIVETHA K 
 ### Register Number: 212222230102
